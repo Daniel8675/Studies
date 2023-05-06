@@ -13,3 +13,6 @@
 [submodule "Multivariate_Statistics"]
 	path = Multivariate_Statistics
 	url = https://github.com/Daniel8675/Multivariate_Statistics.git
+[submodule "Visualization_Of_Large_Data_Sets"]
+	path = Visualization_Of_Large_Data_Sets
+	url = https://github.com/Daniel8675/Visualization_Of_Large_Data_Sets.git
