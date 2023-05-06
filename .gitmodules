@@ -1,0 +1,3 @@
+[submodule "Data_Mining"]
+	path = Data_Mining
+	url = https://github.com/Daniel8675/Data_Mining.git
