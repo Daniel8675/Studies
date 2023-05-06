@@ -7,3 +7,6 @@
 	branch = main
 [submodule "submodules/Neural_Networks_And_Deep_Learning"]
 	branch = main
+[submodule "Organization_Of_Database_Management_Systems"]
+	path = Organization_Of_Database_Management_Systems
+	url = https://github.com/Daniel8675/Organization_Of_Database_Management_Systems.git
