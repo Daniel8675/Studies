@@ -1,6 +1,4 @@
 [submodule "Data_Mining"]
 	path = Data_Mining
 	url = https://github.com/Daniel8675/Data_Mining.git
-[submodule "Neural_Networks_And_Deep_Learning"]
-	path = Neural_Networks_And_Deep_Learning
-	url = https://github.com/Daniel8675/Neural_Networks_And_Deep_Learning.git
+
