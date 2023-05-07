@@ -1,4 +1,4 @@
-# Data Science Studies
+# Data Science Studies 👨‍🎓
 
 ## First Semester
 * [Data Mining](https://github.com/Daniel8675/Data_Mining)
